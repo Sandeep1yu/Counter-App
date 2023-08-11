@@ -1,0 +1,13 @@
+.section {
+    max-width: 90%;
+    width: 30rem;
+    background-color: white;
+    border-radius: 12px;
+    margin: 2rem auto;
+    padding: 2rem;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    font-family: cursive;
+
+}
